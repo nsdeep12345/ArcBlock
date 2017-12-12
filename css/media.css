@@ -1,0 +1,1515 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (min-width: 1201px) and (max-width: 1367px) {
+
+
+header nav .main-nav-bar {
+	padding-right: 0;
+}
+.platform-advantages-con {
+	padding: 35px;
+}
+.platform-advantages-outer-con:nth-child(1) {
+	padding: 0 20px 0 0;
+}
+.platform-advantages-outer-con:nth-child(3) {
+	padding: 0 0 0 20px;
+}
+
+.platform-advantages-con img {
+	top: -58px;
+	width: 110px;
+	right:25px;
+}
+.open-chain-access-con .col-xs-3 {
+	padding: 0 10px;
+}
+
+
+.team-member-list {
+	padding: 40px 25px;
+	margin: 15px;
+}
+.team-member-list img {
+	width: 120px;
+	height: 118px;
+}
+.team-member-list strong {
+	padding: 15px 0 0 0;
+}
+.team-member-list p {
+	padding: 20px 0;
+	min-height: 180px;
+	line-height: 22px;
+}
+.team-member-list a {
+	padding: 15px 32px;
+	font-size: 15px;
+}
+
+.owl-carousel .owl-nav .owl-prev {
+	margin-left: -12px !important;
+}
+.owl-carousel .owl-nav .owl-next {
+	margin-right: -12px !important;
+}
+
+.media-report-bottom-con strong {
+	font-size: 17px;
+}
+
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+header nav.navbar .navbar-header a.navbar-brand {
+	width: 170px;
+}
+header nav.navbar .main-nav-bar {
+	padding: 25px 0 0;
+}
+.left-nav-bar li a {
+	padding: 10px;
+	font-size: 12px;
+}
+.top-header-buttons li a {
+	padding: 12px 20px 10px;
+	font-size: 12px;
+}
+
+
+.banner-outer-con {
+	padding: 180px 0 0;
+}
+.amount-raised-con {
+	margin-right: 30px;
+}
+.banner-right-con h1 {
+	font-size: 58px;
+	line-height: 58px;
+}
+.banner-right-con samp {
+	font-size: 16px;
+}
+.banner-right-buttons a {
+	padding: 15px 25px;
+	font-size: 14px;
+	line-height: 14px;
+}
+.banner-right-buttons a:last-child span {
+	padding: 12px 10px 12px 13px;
+}
+
+.banner-bottom-con {
+	padding: 150px 0 100px 0;
+}
+.platform-advantages-con img {
+	top: -45px;
+	width: 80px;
+	right: 15px;
+}
+.platform-advantages-con:hover img {
+	top: -55px;
+}
+
+.what-we-do-video-con img {
+	padding: 40px 20% 80px;
+}
+.open-chain-access-con .col-xs-3 {
+	padding: 20px 10px;
+}
+
+
+
+.team-member-list {
+	padding: 30px 15px 35px;
+	margin: 5px;
+}
+.team-member-list span {
+	right: 40px;
+	top: 20px;
+}
+.team-member-list img {
+	width: 100px;
+	height: 98px;
+}
+.team-member-list strong {
+	font-size: 20px;
+	line-height: 20px;
+	padding: 15px 0 0 0;
+}
+.team-member-list p {
+	font-size: 14px;
+	padding: 22px 0;
+	min-height: 160px;
+}
+.team-member-list a {
+	padding: 15px 25px;
+	font-size: 14px;
+	line-height: 15px;
+}
+.owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next {
+	background-size:100% 100%;
+	width:20px;
+	height: 32px;
+} 
+.owl-carousel .owl-nav .owl-prev {
+	margin-left: -5px !important;
+}
+.owl-carousel .owl-nav .owl-next {
+	margin-right: -5px !important;
+}
+
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+header nav.navbar .navbar-header a.navbar-brand {
+	width: 125px;
+}
+header nav.navbar .main-nav-bar {
+	padding: 20px 0 0;
+}
+.left-nav-bar li a {
+	padding: 10px;
+	font-size: 10px;
+}
+.top-header-buttons li a {
+	padding: 8px 12px 6px;
+	font-size: 10px;
+}
+
+.banner-outer-con {
+	padding: 130px 0 0;
+}
+.amount-raised-con {
+	float: none;
+	width: 250px;
+	margin-right: 0;
+	display: inline-block;
+	vertical-align: middle;
+}
+.amount-raised-con strong {
+	font-size: 18px;
+}
+.amount-raised-inner {
+	font-size: 35px;
+	line-height: 32px;
+}
+.banner-outer-con .col-md-6 {
+	width: 37%;
+	padding: 0;
+}
+.banner-outer-con .col-md-6.banner-right-con {
+	width: 63%;
+}
+
+.banner-right-con h1 {
+	font-size: 58px;
+	line-height: 58px;
+}
+.banner-right-con samp {
+	font-size: 16px;
+}
+.banner-right-buttons a {
+	padding: 15px 25px;
+	font-size: 14px;
+	line-height: 14px;
+}
+.banner-right-buttons a:last-child span {
+	padding: 12px 10px 12px 13px;
+}
+
+
+.banner-bottom-con {
+	padding: 100px 0 50px;
+}
+.platform-advantages-outer-con:nth-child(1),
+.platform-advantages-outer-con:nth-child(2),
+.platform-advantages-outer-con:nth-child(3) {
+	padding: 0 5px;
+}
+
+.platform-advantages-con {
+	padding: 30px 25px 25px;
+}
+.platform-advantages-con img {
+	top: -35px;
+	width: 60px;
+	right: 10px;
+}
+.platform-advantages-con:hover img {
+	top: -45px;
+}
+
+.platform-advantages-con strong {
+	font-size: 17px;
+}
+
+.what-we-do-video-con img {
+	padding: 40px 20% 80px;
+}
+
+.open-chain-access-outer {
+	padding-top: 30px;
+}
+.open-chain-access-con:nth-child(1),
+.open-chain-access-con:nth-child(2) {
+	padding: 0;
+}
+.open-chain-access-con .col-xs-3 {
+	padding: 0 30px;
+}
+
+.open-chain-access-button {
+	margin: 60px 0 100px;
+}
+
+.cyberMiles-team-outer h3 {
+	margin-bottom: 40px;
+}
+.cyberMiles-team-outer {
+	padding: 50px 0;
+}
+
+.team-member-list {
+	padding: 30px 15px 35px;
+	margin: 5px;
+}
+.team-member-list span {
+	right: 40px;
+	top: 20px;
+}
+.team-member-list img {
+	width: 100px;
+	height: 98px;
+}
+.team-member-list strong {
+	font-size: 20px;
+	line-height: 20px;
+	padding: 15px 0 0 0;
+}
+.team-member-list p {
+	font-size: 14px;
+	padding: 22px 0;
+}
+.team-member-list a {
+	padding: 15px 25px;
+	font-size: 14px;
+	line-height: 15px;
+}
+.owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next {
+	background-size:100% 100%;
+	width:15px;
+	height: 22px;
+} 
+.owl-carousel .owl-nav .owl-prev {
+	margin-left: 0 !important;
+}
+.owl-carousel .owl-nav .owl-next {
+	margin-right: 0 !important;
+}
+
+
+.media-report-outer {
+	padding: 60px 0 0 0;
+}
+.media-report-outer h3 {
+	padding-bottom: 40px;
+}
+
+
+.media-report-inner {
+	padding: 0 0 40px;
+}
+.media-report-inner:last-child {
+	padding: 0;
+}
+.media-report-inner .pull-left, .media-report-inner .pull-right {
+	float: none !important;
+	display: inline-block;
+	padding: 0;
+}
+.media-report-inner-video {
+	margin-bottom: 20px;
+}
+.media-report-bottom-con {
+	padding: 0;
+}
+.media-report-bottom-con .col-xs-5 {
+	padding: 0 20px;
+}
+.media-report-bottom-con .col-xs-7 {
+	padding: 0;
+}
+.media-report-bottom-con span {
+	font-size: 12px;
+	display: block;
+}
+.media-report-bottom-con strong {
+	font-size: 15px;
+	line-height: 15px;
+	display: block;
+}
+.media-report-bottom-con span br {
+	display: none;
+}
+
+.cyberMiles-partners-outer {
+	padding: 90px 0;
+}
+.cyberMiles-partners-outer li {
+	width: 130px;
+	height: 50px;
+}
+
+footer {
+	padding: 80px 15px;
+}
+
+}
+
+
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+
+h2 {
+	font-size: 38px;
+	line-height: 35px;
+	padding: 0 0 20px 0;
+}
+h3 {
+	font-size: 30px;
+	line-height: 30px;
+}
+
+header .navbar .navbar-collapse {
+	background: #155584;
+	padding: 10px 30px 20px;
+}
+header .navbar .navbar-collapse ul {
+	margin: 0;
+}
+.left-nav-bar li a {
+	padding: 14px 0;
+}
+
+header .navbar .navbar-collapse ul.top-header-buttons {
+	padding: 15px 0 0;
+}
+.navbar-collapse ul.top-header-buttons li {
+	display: inline-block;
+}
+.navbar-collapse ul.top-header-buttons li a {
+	margin: 0 5px 0 0;
+	padding: 12px 20px;
+}
+
+.navbar .navbar-header { 
+	padding:0 15px; 
+}
+.navbar-brand {
+	padding: 10px 0;
+	width: 140px;
+}
+.navbar .navbar-header button {
+	margin: 16px 0 0;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #fff;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+	background-color: transparent;
+}
+
+section.banner-outer-con::after {
+	height: 260px;
+	bottom: -100px;
+}
+.banner-outer-con::after, 
+.what-we-do-outer::after,
+.milestones-main-outer::after,
+.questions-to-understand::after {
+	width: 120%;
+	height: 130px;
+	left: 50%;
+	bottom: -100px;
+	transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+}
+.what-we-do-outer::after {
+	height: 430px;
+	bottom: -90px;
+	width: 170%;
+}
+
+
+.banner-outer-con {
+	padding: 120px 0 60px;
+	text-align: center;
+}
+.amount-raised-con {
+	float: none;
+	width: 280px;
+	margin-right: 0;
+	display: inline-block;
+}
+.banner-outer-con .banner-right-con {
+	margin: 30px 0 0;
+}
+.banner-right-con strong {
+	font-size: 13px;
+	font-weight: normal;
+}
+.banner-right-con h1 {
+	font-size: 35px;
+	line-height: 40px;
+}
+.banner-right-con samp {
+	font-size: 14px;
+}
+.banner-right-buttons a {
+	padding: 12px 20px;
+	font-size: 15px;
+	line-height: 15px;
+	float: none;
+	display: inline-block;
+	margin: 0 5px;
+}
+.banner-right-buttons a:last-child {
+	padding: 10px 0 0;
+}
+.banner-right-buttons a:last-child span {
+	padding: 12px 10px 12px 15px;
+}
+
+.banner-bottom-con {
+	padding: 80px 15px 0;
+}
+.platform-advantages-outer-con:nth-child(1), 
+.platform-advantages-outer-con:nth-child(2), 
+.platform-advantages-outer-con:nth-child(3) {
+	padding: 0 5px;
+	text-align: left;
+	margin: 0;
+	width: 32%;
+	display: inline-block;
+	vertical-align: bottom;
+	float: none;
+}
+.platform-advantages-con {
+	padding: 30px 20px;
+}
+.platform-advantages-con img {
+	top: -28px;
+	width: 50px;
+	right: 10px;
+}
+.platform-advantages-con:hover img {
+	top: -40px;
+}
+
+.platform-advantages-con strong {
+	font-size: 14px;
+}
+.platform-advantages-con p br {
+	display: none;
+}
+
+
+.what-we-do-outer {
+	padding:0 15px;
+}
+.what-we-do-outer strong {
+	font-size: 15px;
+}
+.what-we-do-outer strong span {
+	padding: 2px 5px;
+}
+.what-we-do-outer p {
+	font-size: 15px;
+	line-height: 22px;
+	padding: 26px 0 0;
+}
+
+
+.what-we-do-video-con {
+	padding: 0;
+}
+.what-we-do-video-con img {
+	padding: 40px 20%;
+}
+.what-we-do-outer p span br {
+	display:none;
+}
+.what-we-do-outer p span {
+	font-size: 15px;
+}
+
+
+
+.open-chain-access-outer {
+	padding-top: 20px;
+}
+.open-chain-access-con .col-xs-3 {
+	padding: 0 45px;
+}
+.open-chain-access-con:nth-child(1),
+.open-chain-access-con:nth-child(2) {
+	padding: 0 0 40px;
+}
+.open-chain-access-con:nth-child(2) {
+	padding: 0;
+}
+.open-chain-access-con h4 {
+	font-size: 22px;
+	line-height: 27px;
+	padding: 0 10px 0 0;
+	height: auto;
+}
+.open-chain-access-con p {
+	font-size: 15px;
+	line-height: 22px;
+	margin-top: 15px;
+}
+
+.open-chain-access-button {
+	margin: 0 0 40px;
+	text-align: center;
+}
+.open-chain-access-button a {
+	padding: 16px 22px;
+	margin: 0;
+	width: auto;
+	font-size: 13px;
+}
+
+.milestones-main-outer {
+	padding: 60px 0 20px;
+}
+.milestone-right-con div {
+	padding-left: 25px;
+}
+.milestone-left-con div {
+	padding-right: 20px;
+}
+.milestone-inner-con strong {
+	font-size: 20px;
+}
+.milestone-inner-con p {
+	font-size: 14px;
+	line-height: 20px;
+}
+.milestone-inner-con p br {
+	display: none;
+}
+
+
+.questions-to-understand {
+	padding: 30px 0 0;
+}
+.questions-to-understand-inner {
+	padding: 0 15px 20px;
+}
+.questions-to-understand h3 {
+	margin: 0 0 25px;
+}
+
+.questions-to-understand-inner strong {
+	font-size: 18px;
+	line-height: 22px;
+	padding: 12px;
+}
+.questions-to-understand-inner p {
+	font-size: 15px;
+	line-height: 22px;
+	padding: 10px;
+	margin: 0;
+}
+.questions-to-understand .open-chain-access-button {
+	margin: 0 0 80px !important;
+}
+
+
+.cyberMiles-team-outer {
+	padding: 30px 15px;
+}
+.cyberMiles-team-outer h3 {
+	margin-bottom: 40px;
+}
+
+.cyberMiles-team-outer .owl-carousel {
+	padding: 0 25px;
+}
+.team-member-list {
+	padding: 30px 10px;
+	margin: 10px;
+}
+.team-member-list span {
+	right: 50px;
+	top: 30px;
+}
+.team-member-list img {
+	width: 115px;
+	height: 112px;
+}
+.team-member-list strong {
+	font-size: 22px;
+	line-height: 22px;
+	padding: 15px 0 0 0;
+}
+.team-member-list p {
+	font-size: 14px;
+	padding: 10px 0;
+	min-height: 160px;
+}
+.team-member-list a {
+	padding: 15px 25px;
+	font-size: 13px;
+	line-height: 14px;
+}
+.team-member-list:hover {
+	-webkit-box-shadow: 1px 1px 28px -10px rgba(0,0,0,0.28);
+	-moz-box-shadow: 1px 1px 28px -10px rgba(0,0,0,0.28);
+	box-shadow: 1px 1px 28px -10px rgba(0,0,0,0.28);
+}
+.owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next {
+	position: relative;
+	bottom: 430px;
+	background-size: 100% 100%;
+	width: 15px;
+	height: 22px;
+}
+
+
+.media-report-outer {
+	padding: 60px 0 0 0;
+}
+.media-report-outer h3 {
+	padding-bottom: 40px;
+}
+
+
+.media-report-inner {
+	padding: 0 0 40px;
+}
+.media-report-inner:last-child {
+	padding: 0;
+}
+.media-report-inner .pull-left, .media-report-inner .pull-right {
+	float: none !important;
+	display: inline-block;
+	padding: 0;
+}
+.media-report-inner-video {
+	margin-bottom: 20px;
+}
+.media-report-bottom-con {
+	padding: 0 80px;
+}
+.media-report-bottom-con .col-xs-5 {
+	padding: 0 20px;
+}
+.media-report-bottom-con .col-xs-7 {
+	padding: 0;
+}
+.media-report-bottom-con span {
+	font-size: 12px;
+	display: block;
+}
+.media-report-bottom-con strong {
+	font-size: 15px;
+	line-height: 15px;
+	display: block;
+}
+.media-report-bottom-con span br {
+	display: none;
+}
+
+
+.cyberMiles-partners-outer {
+	padding: 80px 15px 50px;
+}
+.cyberMiles-partners-outer h3 {
+	margin-bottom: 50px;
+}
+.cyberMiles-partners-outer ul {
+	padding: 0;
+}
+.cyberMiles-partners-outer li {
+	width: 120px;
+	height: 40px;
+	margin: 10px 5px;
+}
+
+footer {
+	padding: 40px 15px;
+}
+.sm-icons-outer img {
+	margin: 0 5px;
+	width: 40px;
+}
+footer p {
+	font-size: 15px;
+	padding-top: 30px;
+}
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 639px) {
+
+h2 {
+	font-size: 38px;
+	line-height: 35px;
+	padding: 0 0 20px 0;
+}
+h3 {
+	font-size: 30px;
+	line-height: 30px;
+}
+
+
+header .navbar .navbar-collapse {
+	background: #155584;
+	padding: 10px 30px 20px;
+}
+header .navbar .navbar-collapse ul {
+	margin: 0;
+}
+.left-nav-bar li a {
+	padding: 14px 0;
+}
+
+header .navbar .navbar-collapse ul.top-header-buttons {
+	padding: 15px 0 0;
+}
+.navbar-collapse ul.top-header-buttons li {
+	display: inline-block;
+}
+.navbar-collapse ul.top-header-buttons li a {
+	margin: 0 5px 0 0;
+	padding: 12px 20px;
+}
+
+.navbar .navbar-header { 
+	padding:0 15px; 
+}
+.navbar-brand {
+	padding: 10px 0;
+	width: 140px;
+}
+.navbar .navbar-header button {
+	margin: 16px 0 0;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #fff;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+	background-color: transparent;
+}
+
+.banner-outer-con::after, 
+.what-we-do-outer::after,
+.milestones-main-outer::after,
+.questions-to-understand::after {
+	width: 120%;
+	height: 130px;
+	left: 50%;
+	bottom: -100px;
+	transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+}
+.what-we-do-outer::after {
+	height: 480px;
+	bottom: -100px;
+	width: 170%;
+}
+
+.banner-outer-con {
+	padding: 120px 0 0;
+	text-align: center;
+}
+.amount-raised-con {
+	float: none;
+	width: 280px;
+	margin-right: 0;
+	display: inline-block;
+}
+.banner-outer-con .banner-right-con {
+	margin: 30px 0 0;
+}
+.banner-right-con strong {
+	font-size: 13px;
+	font-weight: normal;
+}
+.banner-right-con h1 {
+	font-size: 35px;
+	line-height: 40px;
+}
+.banner-right-con samp {
+	font-size: 14px;
+}
+.banner-right-buttons a {
+	padding: 12px 20px;
+	font-size: 15px;
+	line-height: 15px;
+	float: none;
+	display: inline-block;
+	margin: 0 5px;
+}
+.banner-right-buttons a:last-child {
+	padding: 10px 0 0;
+}
+.banner-right-buttons a:last-child span {
+	padding: 12px 10px 12px 15px;
+}
+
+.banner-bottom-con {
+	padding: 80px 15px 100px;
+}
+.platform-advantages-outer-con:nth-child(1),
+.platform-advantages-outer-con:nth-child(2),
+.platform-advantages-outer-con:nth-child(3) {
+	padding: 0;
+	text-align: left;
+	margin: 0 0 80px;
+}
+.platform-advantages-outer-con:nth-child(3) {
+	margin: 0;
+}
+.platform-advantages-con {
+	padding: 22px;
+}
+.platform-advantages-con img {
+	top: -55px;
+	width: 100px;
+	right: 20px;
+}
+
+
+.what-we-do-outer {
+	padding: 30px 15px 0;
+}
+.what-we-do-outer strong {
+	font-size: 15px;
+}
+.what-we-do-outer strong span {
+	padding: 2px 5px;
+}
+.what-we-do-outer p {
+	font-size: 15px;
+	line-height: 22px;
+	padding: 26px 0 0;
+}
+
+
+.what-we-do-video-con {
+	padding: 0;
+}
+.what-we-do-video-con img {
+	padding: 40px 10%;
+}
+.what-we-do-outer p span br {
+	display:none;
+}
+.what-we-do-outer p span {
+	font-size: 15px;
+}
+
+
+
+.open-chain-access-outer {
+	padding-top: 20px;
+}
+.open-chain-access-con .col-xs-3 {
+	padding: 0 15px;
+}
+.open-chain-access-con:nth-child(1),
+.open-chain-access-con:nth-child(2) {
+	padding: 0 0 40px;
+}
+.open-chain-access-con:nth-child(2) {
+	padding: 0;
+}
+.open-chain-access-con h4 {
+	font-size: 22px;
+	line-height: 27px;
+	padding: 0 10px 0 0;
+	height: auto;
+}
+.open-chain-access-con p {
+	font-size: 15px;
+	line-height: 22px;
+	margin-top: 15px;
+}
+
+.open-chain-access-button {
+	margin: 0 0 40px;
+	text-align: center;
+}
+.open-chain-access-button a {
+	padding: 16px 22px;
+	margin: 0;
+	width: auto;
+	font-size: 13px;
+}
+.open-chain-access-button .project-white-paper {
+	margin-left: 5px;
+}
+
+.milestones-main-outer {
+	padding: 60px 0 20px;
+}
+.milestone-right-con div {
+	padding-left: 25px;
+}
+.milestone-left-con div {
+	padding-right: 20px;
+}
+.milestone-inner-con strong {
+	font-size: 20px;
+}
+.milestone-inner-con p {
+	font-size: 14px;
+	line-height: 20px;
+}
+.milestone-inner-con p br {
+	display: none;
+}
+
+
+.questions-to-understand {
+	padding: 30px 0 0;
+}
+.questions-to-understand-inner {
+	padding: 0 15px 20px;
+}
+.questions-to-understand h3 {
+	margin: 0 0 25px;
+}
+
+.questions-to-understand-inner strong {
+	font-size: 18px;
+	line-height: 22px;
+	padding: 12px;
+}
+.questions-to-understand-inner p {
+	font-size: 15px;
+	line-height: 22px;
+	padding: 10px;
+	margin: 0;
+}
+.questions-to-understand .open-chain-access-button {
+	margin: 0 0 80px !important;
+}
+
+
+.cyberMiles-team-outer {
+	padding: 30px 15px;
+}
+.cyberMiles-team-outer h3 {
+	margin-bottom: 40px;
+}
+
+.cyberMiles-team-outer .owl-carousel {
+	padding: 0 10px;
+}
+.team-member-list {
+	padding: 30px 10px;
+	margin: 10px;
+}
+.team-member-list span {
+	right: 50px;
+	top: 30px;
+}
+.team-member-list img {
+	width: 115px;
+	height: 112px;
+}
+.team-member-list strong {
+	font-size: 22px;
+	line-height: 22px;
+	padding: 15px 0 0 0;
+}
+.team-member-list p {
+	font-size: 14px;
+	padding: 10px 0;
+	min-height: 100%;
+}
+.team-member-list a {
+	padding: 15px 25px;
+	font-size: 13px;
+	line-height: 14px;
+}
+.team-member-list:hover {
+	-webkit-box-shadow: 1px 1px 28px -10px rgba(0,0,0,0.28);
+	-moz-box-shadow: 1px 1px 28px -10px rgba(0,0,0,0.28);
+	box-shadow: 1px 1px 28px -10px rgba(0,0,0,0.28);
+}
+.owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next {
+	position: relative;
+	bottom: 430px;
+	background-size: 100% 100%;
+	width: 15px;
+	height: 22px;
+}
+
+
+.media-report-outer {
+	padding: 60px 0 0 0;
+}
+.media-report-outer h3 {
+	padding-bottom: 40px;
+}
+
+
+.media-report-inner {
+	padding: 0 0 40px;
+}
+.media-report-inner:last-child {
+	padding: 0;
+}
+.media-report-inner .pull-left, .media-report-inner .pull-right {
+	float: none !important;
+	display: inline-block;
+	padding: 0;
+}
+.media-report-inner-video {
+	margin-bottom: 20px;
+}
+.media-report-bottom-con {
+	padding: 0;
+}
+.media-report-bottom-con .col-xs-5 {
+	padding: 0 20px;
+}
+.media-report-bottom-con .col-xs-7 {
+	padding: 0;
+}
+.media-report-bottom-con span {
+	font-size: 12px;
+	display: block;
+}
+.media-report-bottom-con strong {
+	font-size: 15px;
+	line-height: 15px;
+	display: block;
+}
+.media-report-bottom-con span br {
+	display: none;
+}
+
+
+.cyberMiles-partners-outer {
+	padding: 80px 15px 50px;
+}
+.cyberMiles-partners-outer h3 {
+	margin-bottom: 50px;
+}
+.cyberMiles-partners-outer ul {
+	padding: 0;
+}
+.cyberMiles-partners-outer li {
+	width: 180px;
+	height: 60px;
+	margin: 10px 5px;
+}
+
+footer {
+	padding: 40px 15px;
+}
+.sm-icons-outer img {
+	margin: 0 5px;
+	width: 40px;
+}
+footer p {
+	font-size: 15px;
+	padding-top: 30px;
+}
+
+
+}
+
+@media only screen and (max-width: 479px) {
+
+h2 {
+	font-size: 38px;
+	line-height: 35px;
+	padding: 0 0 20px 0;
+}
+h3 {
+	font-size: 30px;
+	line-height: 30px;
+}
+
+
+header .navbar .navbar-collapse {
+	background: #155584;
+	padding: 10px 30px 20px;
+}
+header .navbar .navbar-collapse ul {
+	margin: 0;
+}
+.left-nav-bar li a {
+	padding: 14px 0;
+}
+
+header .navbar .navbar-collapse ul.top-header-buttons {
+	padding: 15px 0 0;
+}
+.navbar-collapse ul.top-header-buttons li {
+	display: inline-block;
+}
+.navbar-collapse ul.top-header-buttons li a {
+	margin: 0 5px 0 0;
+	padding: 12px 20px;
+}
+
+.navbar .navbar-header { 
+	padding:0 15px; 
+}
+.navbar-brand {
+	padding: 10px 0;
+	width: 140px;
+}
+.navbar .navbar-header button {
+	margin: 16px 0 0;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #fff;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+	background-color: transparent;
+}
+
+.banner-outer-con::after, 
+.what-we-do-outer::after,
+.milestones-main-outer::after,
+.questions-to-understand::after {
+	width: 120%;
+	height: 130px;
+	left: 50%;
+	bottom: -100px;
+	transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+}
+.what-we-do-outer::after {
+	height: 500px;
+	bottom: -100px;
+	width: 170%;
+}
+
+.banner-outer-con {
+	padding: 120px 0 0;
+	text-align: center;
+}
+.amount-raised-con {
+	float: none;
+	width: 280px;
+	margin-right: 0;
+	display: inline-block;
+}
+.banner-outer-con .banner-right-con {
+	margin: 30px 0 0;
+}
+.banner-right-con strong {
+	font-size: 13px;
+	font-weight: normal;
+}
+.banner-right-con h1 {
+	font-size: 35px;
+	line-height: 40px;
+}
+.banner-right-con samp {
+	font-size: 14px;
+}
+.banner-right-buttons a {
+	padding: 15px 40px;
+	font-size: 15px;
+	line-height: 15px;
+	float: none;
+	display: inline-block;
+}
+.banner-right-buttons a:last-child {
+	padding: 10px 0 0;
+}
+.banner-bottom-con {
+	padding: 80px 15px;
+}
+.platform-advantages-outer-con:nth-child(1),
+.platform-advantages-outer-con:nth-child(2),
+.platform-advantages-outer-con:nth-child(3) {
+	padding: 0;
+	text-align: left;
+	margin: 0 0 55px;
+}
+.platform-advantages-outer-con:nth-child(3) {
+	margin: 0;
+}
+.platform-advantages-con {
+	padding: 22px;
+}
+.platform-advantages-con img {
+	top: -35px;
+	width: 65px;
+	right: 10px;
+}
+.platform-advantages-con:hover img {
+	top: -45px;
+}
+
+
+.what-we-do-outer {
+	padding: 30px 15px 0;
+}
+.what-we-do-outer strong {
+	font-size: 15px;
+}
+.what-we-do-outer strong span {
+	padding: 2px 5px;
+}
+.what-we-do-outer p {
+	font-size: 15px;
+	line-height: 22px;
+	padding: 26px 0 0;
+}
+
+
+.what-we-do-video-con {
+	padding: 0;
+}
+.what-we-do-video-con img {
+	padding: 35px 10px;
+}
+.what-we-do-outer p span br {
+	display:none;
+}
+.what-we-do-outer p span {
+	font-size: 15px;
+}
+
+
+
+.open-chain-access-outer {
+	padding-top: 20px;
+}
+.open-chain-access-con:nth-child(1),
+.open-chain-access-con:nth-child(2) {
+	padding: 0 0 40px;
+}
+.open-chain-access-con:nth-child(2) {
+	padding: 0;
+}
+.open-chain-access-con .col-xs-3 {
+	padding: 0 10px;
+}
+.open-chain-access-con:hover img {
+	right: 10px;
+}
+
+.open-chain-access-con h4 {
+	font-size: 22px;
+	line-height: 27px;
+	padding: 0 10px 0 0;
+	height: auto;
+}
+.open-chain-access-con p {
+	font-size: 15px;
+	line-height: 22px;
+	margin-top: 15px;
+}
+
+.open-chain-access-button {
+	margin: 0 0 40px;
+	text-align: center;
+}
+.open-chain-access-button a {
+	padding: 18px;
+	margin: 5px 0;
+	width: 90%;
+}
+.open-chain-access-button .project-white-paper {
+	margin-left: 0;
+}
+
+.milestones-main-outer {
+	padding: 60px 0 20px;
+}
+.milestone-right-con div {
+	padding-left: 25px;
+}
+.milestone-left-con div {
+	padding-right: 20px;
+}
+.milestone-inner-con strong {
+	font-size: 20px;
+}
+.milestone-inner-con p {
+	font-size: 14px;
+	line-height: 20px;
+}
+.milestone-inner-con p br {
+	display: none;
+}
+
+
+.questions-to-understand {
+	padding: 30px 0 0;
+}
+.questions-to-understand-inner {
+	padding: 0 15px 20px;
+}
+.questions-to-understand h3 {
+	margin: 0 0 25px;
+}
+
+.questions-to-understand-inner strong {
+	font-size: 18px;
+	line-height: 22px;
+	padding: 12px;
+}
+.questions-to-understand-inner p {
+	font-size: 15px;
+	line-height: 22px;
+	padding: 10px;
+	margin: 0;
+}
+.questions-to-understand .open-chain-access-button {
+	margin: 0 0 80px !important;
+}
+
+
+.cyberMiles-team-outer {
+	padding: 30px 15px;
+}
+.cyberMiles-team-outer h3 {
+	margin-bottom: 20px;
+}
+
+.cyberMiles-team-outer .owl-carousel {
+	padding: 0 10px;
+}
+.team-member-list {
+	padding: 30px 10px;
+	margin: 10px;
+}
+.team-member-list span {
+	right: 50px;
+	top: 30px;
+}
+.team-member-list img {
+	width: 115px;
+	height: 112px;
+}
+.team-member-list strong {
+	font-size: 22px;
+	line-height: 22px;
+	padding: 15px 0 0 0;
+}
+.team-member-list p {
+	font-size: 14px;
+	padding: 10px 0;
+	min-height: 100%;
+}
+.team-member-list a {
+	padding: 15px 25px;
+	font-size: 13px;
+	line-height: 14px;
+}
+.team-member-list:hover {
+	-webkit-box-shadow: 1px 1px 28px -10px rgba(0,0,0,0.28);
+	-moz-box-shadow: 1px 1px 28px -10px rgba(0,0,0,0.28);
+	box-shadow: 1px 1px 28px -10px rgba(0,0,0,0.28);
+}
+.owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next {
+	position: relative;
+	bottom: 510px;
+	background-size: 100% 100%;
+	width: 15px;
+	height: 22px;
+}
+
+
+
+.media-report-outer {
+	padding: 60px 0 0 0;
+}
+.media-report-outer h3 {
+	padding-bottom: 40px;
+}
+
+
+.media-report-inner {
+	padding: 0 0 40px;
+}
+.media-report-inner:last-child {
+	padding: 0;
+}
+.media-report-inner .pull-left, .media-report-inner .pull-right {
+	float: none !important;
+	display: inline-block;
+	padding: 0;
+}
+.media-report-inner-video {
+	margin-bottom: 20px;
+}
+.media-report-bottom-con {
+	padding: 0 20px;
+}
+.media-report-bottom-con .col-xs-5 {
+	padding: 5px 10px 0 0;
+}
+.media-report-bottom-con .col-xs-7 {
+	padding: 0;
+}
+.media-report-bottom-con span {
+	font-size: 12px;
+	display: block;
+}
+.media-report-bottom-con strong {
+	font-size: 15px;
+	line-height: 15px;
+	display: block;
+}
+.media-report-bottom-con span br {
+	display: none;
+}
+
+
+.cyberMiles-partners-outer {
+	padding: 80px 15px 50px;
+}
+.cyberMiles-partners-outer h3 {
+	margin-bottom: 50px;
+}
+.cyberMiles-partners-outer ul {
+	padding: 0;
+}
+.cyberMiles-partners-outer li {
+	width: 108px;
+	height: 60px;
+	margin: 10px;
+}
+
+
+footer {
+	padding: 40px 15px;
+}
+.sm-icons-outer img {
+	margin: 2px;
+	width: 40px;
+}
+footer p {
+	font-size: 15px;
+	padding-top: 30px;
+}
+
+
+}
+
