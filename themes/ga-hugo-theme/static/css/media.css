@@ -19,13 +19,12 @@ header nav .main-nav-bar {
 
 .platform-advantages-con img {
 	top: -58px;
-	width: 110px;
+	width: 100px;
 	right:25px;
 }
 .open-chain-access-con .col-xs-3 {
 	padding: 0 10px;
 }
-
 
 .team-member-list {
 	padding: 40px 25px;
@@ -115,7 +114,7 @@ header nav.navbar .main-nav-bar {
 }
 
 .what-we-do-video-con img {
-	padding: 40px 20% 80px;
+	padding: 40px 0 80px;
 }
 .open-chain-access-con .col-xs-3 {
 	padding: 20px 10px;
@@ -226,7 +225,7 @@ header nav.navbar .main-nav-bar {
 
 
 .banner-bottom-con {
-	padding: 100px 0 50px;
+	padding: 100px 0 70px;
 }
 .platform-advantages-outer-con:nth-child(1),
 .platform-advantages-outer-con:nth-child(2),
@@ -251,7 +250,7 @@ header nav.navbar .main-nav-bar {
 }
 
 .what-we-do-video-con img {
-	padding: 40px 20% 80px;
+	padding: 40px 0 80px;
 }
 
 .open-chain-access-outer {
@@ -472,16 +471,19 @@ section.banner-outer-con::after {
 .banner-right-con samp {
 	font-size: 14px;
 }
+.banner-right-buttons {
+	float: none;
+	width: auto;
+	display: inline-block;
+}
 .banner-right-buttons a {
 	padding: 12px 20px;
 	font-size: 15px;
 	line-height: 15px;
-	float: none;
-	display: inline-block;
 	margin: 0 5px;
 }
 .banner-right-buttons a:last-child {
-	padding: 10px 0 0;
+	padding: 0;
 }
 .banner-right-buttons a:last-child span {
 	padding: 12px 10px 12px 15px;
@@ -502,7 +504,8 @@ section.banner-outer-con::after {
 	float: none;
 }
 .platform-advantages-con {
-	padding: 30px 20px;
+	padding: 30px 20px; 
+	min-height: 312px;
 }
 .platform-advantages-con img {
 	top: -28px;
@@ -541,7 +544,8 @@ section.banner-outer-con::after {
 	padding: 0;
 }
 .what-we-do-video-con img {
-	padding: 40px 20%;
+	padding: 40px 0;
+	width:500px;
 }
 .what-we-do-outer p span br {
 	display:none;
@@ -854,16 +858,19 @@ header .navbar .navbar-collapse ul.top-header-buttons {
 .banner-right-con samp {
 	font-size: 14px;
 }
+.banner-right-buttons {
+	float: none;
+	width: auto;
+	display: inline-block;
+}
 .banner-right-buttons a {
 	padding: 12px 20px;
 	font-size: 15px;
 	line-height: 15px;
-	float: none;
-	display: inline-block;
 	margin: 0 5px;
 }
 .banner-right-buttons a:last-child {
-	padding: 10px 0 0;
+	padding: 0;
 }
 .banner-right-buttons a:last-child span {
 	padding: 12px 10px 12px 15px;
@@ -886,11 +893,13 @@ header .navbar .navbar-collapse ul.top-header-buttons {
 	padding: 22px;
 }
 .platform-advantages-con img {
-	top: -55px;
-	width: 100px;
+	top: -35px;
+	width: 60px;
 	right: 20px;
 }
-
+.platform-advantages-con:hover img {
+	top: -42px;
+}
 
 .what-we-do-outer {
 	padding: 30px 15px 0;
@@ -912,7 +921,8 @@ header .navbar .navbar-collapse ul.top-header-buttons {
 	padding: 0;
 }
 .what-we-do-video-con img {
-	padding: 40px 10%;
+	padding: 40px 0;
+	width: 400px;
 }
 .what-we-do-outer p span br {
 	display:none;
@@ -1285,7 +1295,8 @@ header .navbar .navbar-collapse ul.top-header-buttons {
 	padding: 0;
 }
 .what-we-do-video-con img {
-	padding: 35px 10px;
+	padding: 35px 0;
+	width: 300px;
 }
 .what-we-do-outer p span br {
 	display:none;

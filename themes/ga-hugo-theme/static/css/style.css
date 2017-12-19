@@ -206,7 +206,7 @@ header nav.navbar .navbar-header a.navbar-brand { margin: 0; }
 .banner-outer-con
 {
 	background:url(../images/banner-bg-image.jpg) center top no-repeat;
-	background-size:cover;
+	background-size: cover;
 	width:100%;
 	display:block;
 	position:relative;
